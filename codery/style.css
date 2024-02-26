@@ -1,0 +1,16 @@
+h1:hover{
+    color:rgba(212, 14, 40, 0.409);
+}
+
+h1{
+    display: relative;
+    padding: 50px;
+    letter-spacing: 5px;
+}
+
+span{
+    color: aquamarine;
+    font-size: 45px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
