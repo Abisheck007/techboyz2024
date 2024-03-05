@@ -1,6 +1,6 @@
 public class Abi{
-    public static void main(String[] args]
-    {
-        System.out.println("Abisheck");
+    public static void main(String[] args){
+    String Abi = "itz my first code in java";
+    System.out.println(Abi);
     }
 }
