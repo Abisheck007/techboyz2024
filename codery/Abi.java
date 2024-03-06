@@ -1,6 +1,6 @@
 public class Abi{
     public static void main(String[] args){
-    String Abi = "itz my first code in java";
-    System.out.println(" hi guys " + Abi);
+    String abi = "i am good boy";
+    System.out.println("we are going to find the length of the above passage so the length is " + abi.length());
     }
 }
