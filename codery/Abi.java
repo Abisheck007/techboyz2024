@@ -1,9 +1,11 @@
 public class Abi{
-    public static  void myMethod(){
-        System.out.println("i am good boy");
-    }   
-    public static void main(String[] args){
-        myMethod();
+    static void myMythod(String fname)
+    {
+        System.out.println(fname + "shake");
     }
-    
+    public static void main(String[] args)
+    {
+        myMythod("milk");
+        myMythod("protien");
+    }
 }
